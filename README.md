@@ -4,6 +4,24 @@
 This data visualization was created using ***Python.*** The aim and distinctive feature of this study are to show that the data visualization steps were explained and implemented transparently.
 
 
+**There are two steps in this project:**
+
+
+
+
+**1) Data Visualization**
+
+
+* Exploratory Data Analysis (EDA)
+* Additional Data Visualizations
+
+
+
+
+**2) Machine Learning Applications**
+
+
+
 ## Table of Contents for  Data Visualization 
 
 - [Radar Chart](#radar-chart)
